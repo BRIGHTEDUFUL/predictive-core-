@@ -5,3 +5,5 @@ matplotlib
 joblib
 streamlit
 plotly
+streamlit-lottie
+requests
