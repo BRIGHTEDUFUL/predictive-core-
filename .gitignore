@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Data & Models
+student_data.csv
+*.pkl
+downloadable_samples/
+sample_data/
+*.png
+*.zip
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
