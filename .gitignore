@@ -11,8 +11,13 @@ student_data.csv
 *.pkl
 downloadable_samples/
 sample_data/
-*.png
 *.zip
+
+# Exclude generated charts in root but allow assets
+/confusion_matrix.png
+/performance_metrics.png
+/hero_banner.png
+!assets/**
 
 # Streamlit
 .streamlit/
